@@ -1,0 +1,2 @@
+# Meu-Primiero-teste-em-python
+Eu não sei muito mexer em python eu to tentando aprender , mais e bem difícil, ainda mais pra uma pessoa da minha idade que tem que conciliar estudos , tentar aprender , e as tarefas de casa , mas eu to me esforçando , eu criei essa janelinha de login , mais ainda to tendo dificuldades de implementar outros usuários,  então quem quiser me ajuda pode me chama no discord :) ta tudo no meu perfil >:3
